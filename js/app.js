@@ -35,6 +35,32 @@ let currentDay =
     ? today
     : "Monday";
 
+
+const dayLabels = {
+  Monday: "🔥 Push Day",
+  Tuesday: "💪 Pull Day",
+  Wednesday: "🦵 Legs + Core",
+  Thursday: "🏋️ Upper Body",
+  Friday: "⚡ Lower Body + Core"
+};
+
+const dayMuscles = {
+  Monday:
+    "Chest • Shoulders • Triceps",
+
+  Tuesday:
+    "Back • Biceps",
+
+  Wednesday:
+    "Quads • Hamstrings • Core",
+
+  Thursday:
+    "Upper Body",
+
+  Friday:
+    "Legs • Core"
+};
+
 const tabs = document.querySelectorAll(".tab");
 function setActiveTab() {
 
@@ -108,11 +134,12 @@ async function renderWorkouts() {
     );
   }
 
-  dayTitle.textContent =
-    currentDay;
+ dayTitle.textContent =
+  dayLabels[currentDay] ||
+  currentDay;
 
   exerciseCount.textContent =
-    `${filtered.length} Exercises`;
+dayMuscles[currentDay];
 
   if (!filtered.length) {
     container.innerHTML = `
