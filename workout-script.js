@@ -42,7 +42,7 @@ async function main() {
 
   for (const workout of workouts) {
     const filename =
-      slugify(workout.exerciseName) + ".jpg";
+      slugify(workout.exerciseName) + ".webp";
 
     const localPath =
       "images/" + filename;

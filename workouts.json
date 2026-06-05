@@ -5,7 +5,7 @@
     "exerciseName": "Bench Press",
     "sets": 3,
     "reps": "8-10",
-    "image": "images/bench-press.jpg",
+    "image": "images/bench-press.webp",
     "video": "https://www.youtube.com/shorts/0cXAp6WhSj4",
     "description": "Lie on a flat bench, lower the bar to mid chest with elbows about 45 degrees, then press it back up while keeping your feet planted and shoulder blades pulled together.",
     "primaryMuscles": ["Pectoralis major", "Anterior deltoids", "Triceps brachii"]
@@ -16,7 +16,7 @@
     "exerciseName": "Incline Dumbbell Press",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/incline-dumbbell-press.jpg",
+    "image": "images/incline-dumbbell-press.webp",
     "video": "https://www.youtube.com/shorts/gdLdegHqz8I",
     "description": "Set the bench at a slight incline, hold dumbbells above your shoulders, lower them toward your upper chest, then press back up.",
     "primaryMuscles": ["Upper pectoralis major", "Anterior deltoids", "Triceps brachii"]
@@ -27,7 +27,7 @@
     "exerciseName": "Shoulder Press",
     "sets": 3,
     "reps": "8-10",
-    "image": "images/shoulder-press.jpg",
+    "image": "images/shoulder-press.webp",
     "video": "https://www.youtube.com/shorts/NU1nlYdKTUU",
     "description": "Press dumbbells from shoulder height straight overhead until your arms are extended.",
     "primaryMuscles": ["Anterior deltoids", "Lateral deltoids", "Triceps brachii"]
@@ -38,7 +38,7 @@
     "exerciseName": "Lateral Raise",
     "sets": 3,
     "reps": "12-15",
-    "image": "images/lateral-raise.jpg",
+    "image": "images/lateral-raise.webp",
     "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
     "description": "Raise dumbbells to shoulder height with a slight bend in your elbows.",
     "primaryMuscles": ["Lateral deltoids", "Supraspinatus", "Upper trapezius"]
@@ -49,7 +49,7 @@
     "exerciseName": "Triceps Pushdown",
     "sets": 3,
     "reps": "12-15",
-    "image": "images/triceps-pushdown.jpg",
+    "image": "images/triceps-pushdown.webp",
     "video": "https://www.youtube.com/watch?v=2-LAMcpzODU",
     "description": "Push the cable attachment downward while keeping elbows tucked.",
     "primaryMuscles": ["Triceps brachii"]
@@ -60,7 +60,7 @@
     "exerciseName": "Lat Pulldown",
     "sets": 3,
     "reps": "8-12",
-    "image": "images/lat-pulldown.jpg",
+    "image": "images/lat-pulldown.webp",
     "video": "https://www.youtube.com/watch?v=mUfNdKgsgHI",
     "description": "Pull the bar toward your upper chest while driving elbows downward.",
     "primaryMuscles": ["Latissimus dorsi", "Biceps brachii", "Rhomboids"]
@@ -71,7 +71,7 @@
     "exerciseName": "Seated Row",
     "sets": 3,
     "reps": "8-12",
-    "image": "images/seated-row.jpg",
+    "image": "images/seated-row.webp",
     "video": "https://www.youtube.com/watch?v=xQNrFHEMhI4",
     "description": "Pull the handle toward your torso while squeezing shoulder blades together.",
     "primaryMuscles": ["Middle trapezius", "Rhomboids", "Latissimus dorsi"]
@@ -82,7 +82,7 @@
     "exerciseName": "Chest Supported Row",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/chest-supported-row.jpg",
+    "image": "images/chest-supported-row.webp",
     "video": "https://www.youtube.com/watch?v=FU6YQawma2Q",
     "description": "Row the weight while keeping your chest supported on the bench.",
     "primaryMuscles": ["Middle trapezius", "Rhomboids", "Posterior deltoids"]
@@ -93,7 +93,7 @@
     "exerciseName": "Face Pull",
     "sets": 3,
     "reps": "12-15",
-    "image": "images/face-pull.jpg",
+    "image": "images/face-pull.webp",
     "video": "https://www.youtube.com/watch?v=0Po47vvj9g4",
     "description": "Pull the rope toward your face while flaring elbows outward.",
     "primaryMuscles": ["Posterior deltoids", "Rotator cuff", "Rhomboids"]
@@ -104,7 +104,7 @@
     "exerciseName": "Dumbbell Curl",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/dumbbell-curl.jpg",
+    "image": "images/dumbbell-curl.webp",
     "video": "https://www.youtube.com/watch?v=XE_pHwbst04",
     "description": "Curl dumbbells upward while rotating palms toward shoulders.",
     "primaryMuscles": ["Biceps brachii", "Brachialis"]
@@ -115,7 +115,7 @@
     "exerciseName": "Hammer Curl",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/hammer-curl.jpg",
+    "image": "images/hammer-curl.webp",
     "video": "https://www.youtube.com/watch?v=CFBZ4jN1CMI",
     "description": "Curl dumbbells with a neutral grip throughout the movement.",
     "primaryMuscles": ["Brachialis", "Brachioradialis"]
@@ -126,7 +126,7 @@
     "exerciseName": "Squat",
     "sets": 4,
     "reps": "6-10",
-    "image": "images/squat.jpg",
+    "image": "images/squat.webp",
     "video": "https://www.youtube.com/watch?v=XV1X4_bEvpo",
     "description": "Sit hips back and down, then drive through your heels to stand.",
     "primaryMuscles": ["Quadriceps", "Gluteus maximus", "Hamstrings"]
@@ -137,7 +137,7 @@
     "exerciseName": "Leg Press",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/leg-press.jpg",
+    "image": "images/leg-press.webp",
     "video": "https://www.youtube.com/watch?v=_gIdzap4Hrg",
     "description": "Press the sled upward while maintaining control through the movement.",
     "primaryMuscles": ["Quadriceps", "Gluteus maximus"]
@@ -148,7 +148,7 @@
     "exerciseName": "Romanian Deadlift",
     "sets": 3,
     "reps": "8-10",
-    "image": "images/romanian-deadlift.jpg",
+    "image": "images/romanian-deadlift.webp",
     "video": "https://www.youtube.com/watch?v=hQgFixeXdZo",
     "description": "Hinge at the hips and lower the weight while keeping a flat back.",
     "primaryMuscles": ["Hamstrings", "Gluteus maximus", "Erector spinae"]
@@ -159,7 +159,7 @@
     "exerciseName": "Leg Curl",
     "sets": 3,
     "reps": "12-15",
-    "image": "images/leg-curl.jpg",
+    "image": "images/leg-curl.webp",
     "video": "https://www.youtube.com/watch?v=NlZeAGZ_YJw",
     "description": "Curl your legs toward your glutes in a controlled motion.",
     "primaryMuscles": ["Hamstrings"]
@@ -170,7 +170,7 @@
     "exerciseName": "Leg Extension",
     "sets": 3,
     "reps": "12-15",
-    "image": "images/leg-extension.jpg",
+    "image": "images/leg-extension.webp",
     "video": "https://www.youtube.com/watch?v=3pOsjZGe10k",
     "description": "Extend your knees fully and lower under control.",
     "primaryMuscles": ["Quadriceps"]
@@ -181,7 +181,7 @@
     "exerciseName": "Calf Raise",
     "sets": 4,
     "reps": "15-20",
-    "image": "images/calf-raise.jpg",
+    "image": "images/calf-raise.webp",
     "video": "https://www.youtube.com/watch?v=3UWi44yN-wM",
     "description": "Rise onto your toes and lower slowly for a full stretch.",
     "primaryMuscles": ["Gastrocnemius", "Soleus"]
@@ -192,7 +192,7 @@
     "exerciseName": "Plank",
     "sets": 3,
     "reps": "Hold",
-    "image": "images/plank.jpg",
+    "image": "images/plank.webp",
     "video": "https://www.youtube.com/watch?v=sXAzSTuFJ0I",
     "description": "Maintain a straight body line while bracing your core.",
     "primaryMuscles": ["Rectus Abdominis", "Obliques"]
@@ -203,7 +203,7 @@
     "exerciseName": "Leg Raise",
     "sets": 3,
     "reps": "15",
-    "image": "images/leg-raise.jpg",
+    "image": "images/leg-raise.webp",
     "video": "https://www.youtube.com/watch?v=Nw0LOKe3_l8",
     "description": "Raise your legs while controlling momentum.",
     "primaryMuscles": ["Lower Abs", "Hip Flexors"]
@@ -214,7 +214,7 @@
     "exerciseName": "Incline Bench Press",
     "sets": 3,
     "reps": "8-10",
-    "image": "images/incline-bench-press.jpg",
+    "image": "images/incline-bench-press.webp",
     "video": "https://www.youtube.com/watch?v=PZecKOpWOrk",
     "description": "Target the upper chest using an incline bench angle.",
     "primaryMuscles": ["Upper Chest", "Anterior Deltoids"]
@@ -225,7 +225,7 @@
     "exerciseName": "Lat Pulldown",
     "sets": 3,
     "reps": "8-12",
-    "image": "images/lat-pulldown.jpg",
+    "image": "images/lat-pulldown.webp",
     "video": "https://www.youtube.com/watch?v=mUfNdKgsgHI",
     "description": "Build back width by pulling elbows down and back.",
     "primaryMuscles": ["Latissimus dorsi"]
@@ -236,7 +236,7 @@
     "exerciseName": "Seated Row",
     "sets": 3,
     "reps": "10-12",
-    "image": "images/seated-row.jpg",
+    "image": "images/seated-row.webp",
     "video": "https://www.youtube.com/watch?v=xQNrFHEMhI4",
     "description": "Develop mid-back thickness and posture.",
     "primaryMuscles": ["Rhomboids", "Middle Traps"]
@@ -247,7 +247,7 @@
     "exerciseName": "Lateral Raise",
     "sets": 3,
     "reps": "15",
-    "image": "images/lateral-raise.jpg",
+    "image": "images/lateral-raise.webp",
     "video": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
     "description": "Isolation movement for side delts.",
     "primaryMuscles": ["Lateral Deltoids"]
@@ -258,7 +258,7 @@
     "exerciseName": "Triceps Pushdown",
     "sets": 3,
     "reps": "12",
-    "image": "images/triceps-pushdown.jpg",
+    "image": "images/triceps-pushdown.webp",
     "video": "https://www.youtube.com/watch?v=2-LAMcpzODU",
     "description": "Cable movement for triceps isolation.",
     "primaryMuscles": ["Triceps"]
@@ -269,7 +269,7 @@
     "exerciseName": "Cable Curl",
     "sets": 3,
     "reps": "12",
-    "image": "images/cable-curl.jpg",
+    "image": "images/cable-curl.webp",
     "video": "https://www.youtube.com/watch?v=XE_pHwbst04",
     "description": "Constant tension biceps curl using a cable machine.",
     "primaryMuscles": ["Biceps"]
@@ -280,7 +280,7 @@
     "exerciseName": "Goblet Squat",
     "sets": 3,
     "reps": "12",
-    "image": "images/goblet-squat.jpg",
+    "image": "images/goblet-squat.webp",
     "video": "https://www.youtube.com/watch?v=k_EhLGvM8TQ",
     "description": "Hold a dumbbell at chest level and squat deeply.",
     "primaryMuscles": ["Quadriceps", "Glutes", "Core"]
@@ -291,7 +291,7 @@
     "exerciseName": "Romanian Deadlift",
     "sets": 3,
     "reps": "10",
-    "image": "images/romanian-deadlift.jpg",
+    "image": "images/romanian-deadlift.webp",
     "video": "https://www.youtube.com/watch?v=hQgFixeXdZo",
     "description": "Hip hinge exercise targeting hamstrings and glutes.",
     "primaryMuscles": ["Hamstrings", "Glutes"]
@@ -302,7 +302,7 @@
     "exerciseName": "Walking Lunges",
     "sets": 3,
     "reps": "12/leg",
-    "image": "images/walking-lunges.jpg",
+    "image": "images/walking-lunges.webp",
     "video": "https://www.youtube.com/watch?v=mAgbXQdd4LM",
     "description": "Step forward into alternating lunges while maintaining balance.",
     "primaryMuscles": ["Quadriceps", "Glutes", "Hamstrings"]
@@ -313,7 +313,7 @@
     "exerciseName": "Leg Curl",
     "sets": 3,
     "reps": "15",
-    "image": "images/leg-curl.jpg",
+    "image": "images/leg-curl.webp",
     "video": "https://www.youtube.com/watch?v=NlZeAGZ_YJw",
     "description": "Isolation exercise for hamstrings.",
     "primaryMuscles": ["Hamstrings"]
@@ -324,7 +324,7 @@
     "exerciseName": "Calf Raise",
     "sets": 4,
     "reps": "15-20",
-    "image": "images/calf-raise.jpg",
+    "image": "images/calf-raise.webp",
     "video": "https://www.youtube.com/watch?v=3UWi44yN-wM",
     "description": "Strengthen calves through full range of motion.",
     "primaryMuscles": ["Calves"]
@@ -335,7 +335,7 @@
     "exerciseName": "Cable Crunch",
     "sets": 3,
     "reps": "15",
-    "image": "images/cable-crunch.jpg",
+    "image": "images/cable-crunch.webp",
     "video": "https://www.youtube.com/watch?v=YaXPRqUwItQ",
     "description": "Weighted abdominal crunch using a cable machine.",
     "primaryMuscles": ["Rectus Abdominis", "Obliques"]
@@ -346,7 +346,7 @@
     "exerciseName": "Plank",
     "sets": 3,
     "reps": "Hold",
-    "image": "images/plank.jpg",
+    "image": "images/plank.webp",
     "video": "https://www.youtube.com/watch?v=sXAzSTuFJ0I",
     "description": "Core stability exercise held for time.",
     "primaryMuscles": ["Core", "Obliques"]
