@@ -1,0 +1,272 @@
+[
+  {
+    "exerciseName": "Bench Press",
+    "imageUrl": "images/bench-press.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/shorts/0cXAp6WhSj4",
+    "description": "Lie on a flat bench, lower the bar to mid chest with elbows about 45 degrees, then press it back up while keeping your feet planted and shoulder blades pulled together.",
+    "primaryMuscles": [
+      "Pectoralis major",
+      "Anterior deltoids",
+      "Triceps brachii"
+    ]
+  },
+  {
+    "exerciseName": "Incline Dumbbell Press",
+    "imageUrl": "images/incline-dumbbell-press.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/shorts/gdLdegHqz8I",
+    "description": "Set the bench at a slight incline, hold dumbbells above your shoulders, lower them toward your upper chest, then press back up while keeping your chest up and shoulders back.",
+    "primaryMuscles": [
+      "Upper pectoralis major",
+      "Anterior deltoids",
+      "Triceps brachii"
+    ]
+  },
+  {
+    "exerciseName": "Shoulder Press",
+    "imageUrl": "images/shoulder-press.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/shorts/NU1nlYdKTUU",
+    "description": "Seated or standing, press dumbbells from shoulder height straight overhead until your arms are extended, then lower to about 90 degrees at the elbows while keeping your core braced.",
+    "primaryMuscles": [
+      "Anterior deltoids",
+      "Lateral deltoids",
+      "Triceps brachii"
+    ]
+  },
+  {
+    "exerciseName": "Lateral Raise",
+    "imageUrl": "images/lateral-raise.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+    "description": "Stand tall with a dumbbell in each hand and raise your arms out to the sides until they reach shoulder height, keeping a slight bend in your elbows and moving in a smooth, controlled motion.",
+    "primaryMuscles": [
+      "Lateral deltoids",
+      "Supraspinatus",
+      "Upper trapezius"
+    ]
+  },
+  {
+    "exerciseName": "Triceps Pushdown",
+    "imageUrl": "images/triceps-pushdown.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=2-LAMcpzODU",
+    "description": "Stand facing the cable, keep your elbows tucked by your sides, and extend your arms to push the bar or rope straight down, then return under control without letting your elbows drift forward.",
+    "primaryMuscles": [
+      "Triceps brachii (long head)",
+      "Triceps brachii (lateral head)",
+      "Triceps brachii (medial head)"
+    ]
+  },
+  {
+    "exerciseName": "Lat Pulldown",
+    "imageUrl": "images/lat-pulldown.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=mUfNdKgsgHI",
+    "description": "Secure your thighs under the pad, grab the bar, then pull it down toward your upper chest by driving your elbows down and back while keeping your torso upright and core braced.",
+    "primaryMuscles": [
+      "Latissimus dorsi",
+      "Biceps brachii",
+      "Lower trapezius",
+      "Rhomboids"
+    ]
+  },
+  {
+    "exerciseName": "Seated Row",
+    "imageUrl": "images/seated-row.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=xQNrFHEMhI4",
+    "description": "Sit tall with a neutral spine, grab the handle and pull it toward your torso while squeezing your shoulder blades together, then slowly return until your arms are nearly straight without rounding your back.",
+    "primaryMuscles": [
+      "Middle trapezius",
+      "Rhomboids",
+      "Latissimus dorsi",
+      "Biceps brachii"
+    ]
+  },
+  {
+    "exerciseName": "Chest Supported Row",
+    "imageUrl": "images/chest-supported-row.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=FU6YQawma2Q",
+    "description": "Lie chest down on an incline bench, let your arms hang, then row the handles or dumbbells by driving your elbows back and keeping your chest against the pad the whole time.",
+    "primaryMuscles": [
+      "Middle trapezius",
+      "Rhomboids",
+      "Latissimus dorsi",
+      "Posterior deltoids"
+    ]
+  },
+  {
+    "exerciseName": "Face Pull",
+    "imageUrl": "images/face-pull.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=0Po47vvj9g4",
+    "description": "Set a rope at about face height, step back, then pull the rope toward your face while flaring your elbows out and squeezing your shoulder blades together.",
+    "primaryMuscles": [
+      "Posterior deltoids",
+      "Middle trapezius",
+      "Rhomboids",
+      "Rotator cuff"
+    ]
+  },
+  {
+    "exerciseName": "Dumbbell Curl",
+    "imageUrl": "images/dumbbell-curl.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=XE_pHwbst04",
+    "description": "Stand tall with a dumbbell in each hand, curl the weights up while rotating your palms toward your shoulders, then lower them back down under control without swinging.",
+    "primaryMuscles": [
+      "Biceps brachii",
+      "Brachialis",
+      "Brachioradialis"
+    ]
+  },
+  {
+    "exerciseName": "Hammer Curl",
+    "imageUrl": "images/hammer-curl.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=CFBZ4jN1CMI",
+    "description": "Hold the dumbbells with your palms facing each other, keep your elbows slightly in front of your hips, and curl the weights up in a straight line before lowering them slowly.",
+    "primaryMuscles": [
+      "Brachialis",
+      "Biceps brachii",
+      "Brachioradialis"
+    ]
+  },
+  {
+    "exerciseName": "Squat",
+    "imageUrl": "images/squat.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=XV1X4_bEvpo",
+    "description": "With the bar resting across your upper back, stand with feet about shoulder width, sit your hips back and down while keeping your chest up, then drive through your heels to stand.",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings",
+      "Erector spinae"
+    ]
+  },
+  {
+    "exerciseName": "Leg Press",
+    "imageUrl": "images/leg-press.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=_gIdzap4Hrg",
+    "description": "Sit in the leg press machine with your feet shoulder width on the platform, unlock the safety, lower the sled until your knees are about 90 degrees, then press back up without locking out hard.",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings"
+    ]
+  },
+  {
+    "exerciseName": "Romanian Deadlift",
+    "imageUrl": "images/romanian-deadlift.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=hQgFixeXdZo",
+    "description": "Stand with a soft bend in your knees, push your hips back while keeping your back flat to lower the weight down your thighs, then drive your hips forward to stand and squeeze your glutes.",
+    "primaryMuscles": [
+      "Hamstrings",
+      "Gluteus maximus",
+      "Erector spinae"
+    ]
+  },
+  {
+    "exerciseName": "Leg Curl",
+    "imageUrl": "images/leg-curl.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=NlZeAGZ_YJw",
+    "description": "Lying face down on the machine, place the pad just above your heels, then curl your legs up toward your glutes without lifting your hips off the bench and lower back down slowly.",
+    "primaryMuscles": [
+      "Hamstrings",
+      "Gastrocnemius"
+    ]
+  },
+  {
+    "exerciseName": "Leg Extension",
+    "imageUrl": "images/leg-extension.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=3pOsjZGe10k",
+    "description": "Sit on the machine with the pad just above your ankles, extend your knees to straighten your legs fully, then lower the weight back down with control without slamming the stack.",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Vastus medialis",
+      "Vastus lateralis",
+      "Rectus femoris"
+    ]
+  },
+  {
+    "exerciseName": "Calf Raise",
+    "imageUrl": "images/calf-raise.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=3UWi44yN-wM",
+    "description": "Stand with the balls of your feet on a step or platform, drop your heels for a stretch, then push through your toes to rise up as high as possible before lowering under control.",
+    "primaryMuscles": [
+      "Gastrocnemius",
+      "Soleus"
+    ]
+  },
+  {
+    "exerciseName": "Plank",
+    "imageUrl": "images/plank.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=sXAzSTuFJ0I",
+    "description": "Support your body on forearms and toes in a straight line from head to heels, brace your core, and hold without letting your hips sag or rise too high.",
+    "primaryMuscles": [
+      "Rectus abdominis",
+      "Transverse abdominis",
+      "Obliques",
+      "Gluteus maximus"
+    ]
+  },
+  {
+    "exerciseName": "Leg Raise",
+    "imageUrl": "images/leg-raise.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=Nw0LOKe3_l8",
+    "description": "Hang from a bar with straight arms, then raise your legs until they reach about hip height or higher while controlling any swing and slowly lower them back down.",
+    "primaryMuscles": [
+      "Hip flexors",
+      "Lower rectus abdominis",
+      "Obliques"
+    ]
+  },
+  {
+    "exerciseName": "Incline Bench Press",
+    "imageUrl": "images/incline-bench-press.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=PZecKOpWOrk",
+    "description": "On an incline bench, lower the bar toward your upper chest with your shoulder blades pulled back, then press it up over your shoulders without flaring your elbows excessively.",
+    "primaryMuscles": [
+      "Upper pectoralis major",
+      "Anterior deltoids",
+      "Triceps brachii"
+    ]
+  },
+  {
+    "exerciseName": "Cable Curl",
+    "imageUrl": "images/cable-curl.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=XE_pHwbst04",
+    "description": "Stand facing the cable with your elbows tucked to your sides and curl the handle up toward your shoulders, then lower it back down slowly while keeping your torso still.",
+    "primaryMuscles": [
+      "Biceps brachii",
+      "Brachialis",
+      "Brachioradialis"
+    ]
+  },
+  {
+    "exerciseName": "Goblet Squat",
+    "imageUrl": "images/goblet-squat.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=k_EhLGvM8TQ",
+    "description": "Hold a dumbbell or kettlebell close to your chest, stand with feet slightly wider than hip width, sit your hips down between your knees, then drive through your feet to stand tall.",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Adductors",
+      "Core"
+    ]
+  },
+  {
+    "exerciseName": "Walking Lunges",
+    "imageUrl": "images/walking-lunges.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=mAgbXQdd4LM",
+    "description": "Step forward into a long lunge, lower until your front knee is about 90 degrees with knee over ankle, then push through your front leg to step into the next lunge.",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings",
+      "Calves"
+    ]
+  },
+  {
+    "exerciseName": "Cable Crunch",
+    "imageUrl": "images/cable-crunch.jpg",
+    "youtubeShortUrl": "https://www.youtube.com/watch?v=YaXPRqUwItQ",
+    "description": "Kneel facing the cable stack with the rope behind your head, round your spine to crunch your ribs toward your hips, then slowly return to the starting position without pulling with your arms.",
+    "primaryMuscles": [
+      "Rectus abdominis",
+      "Obliques"
+    ]
+  }
+]

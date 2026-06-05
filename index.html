@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Rishabh's Gym Plan</title>
+
+<link
+href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="app">
+
+<header class="header">
+
+<h1>🏋️ Rishabh's Gym Plan</h1>
+
+<p>
+5-Day Beginner Muscle Building Program
+</p>
+
+<div class="stats">
+<span>Protein: 120-140g</span>
+<span>Steps: 7k-8k</span>
+<span>Water: 3-4L</span>
+</div>
+
+</header>
+
+<section
+  class="dashboard">
+
+  <div class="weight-card">
+
+  <h3>
+    Current Weight
+  </h3>
+
+  <div id="currentWeight">
+    --
+  </div>
+
+  <div
+    id="weightChange"
+    class="weight-change">
+    --
+  </div>
+
+  <button id="logWeightBtn">
+    Log Weight
+  </button>
+
+</div>
+
+  <div
+    class="stats-grid">
+
+    <div
+      class="stat-card">
+
+      <span>
+        Workouts
+      </span>
+
+      <strong
+        id="totalWorkouts">
+        0
+      </strong>
+
+    </div>
+
+    <div
+      class="stat-card">
+
+      <span>
+        Days
+      </span>
+
+      <strong
+        id="daysTrained">
+        0
+      </strong>
+
+    </div>
+
+    <div
+      class="stat-card">
+
+      <span>
+        Weekly
+      </span>
+
+      <strong
+        id="weeklyCompletion">
+        0%
+      </strong>
+
+    </div>
+
+    <div
+      class="stat-card">
+
+      <span>
+        Monthly
+      </span>
+
+      <strong
+        id="monthlyCompletion">
+        0%
+      </strong>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section class="search-section">
+
+<input
+type="text"
+id="searchInput"
+placeholder="Search workout...">
+
+</section>
+
+<section
+class="tabs"
+id="tabs">
+
+<button
+class="tab active"
+data-day="Monday">
+Mon
+</button>
+
+<button
+class="tab"
+data-day="Tuesday">
+Tue
+</button>
+
+<button
+class="tab"
+data-day="Wednesday">
+Wed
+</button>
+
+<button
+class="tab"
+data-day="Thursday">
+Thu
+</button>
+
+<button
+class="tab"
+data-day="Friday">
+Fri
+</button>
+
+</section>
+
+<section class="day-title">
+
+<h2 id="dayTitle">
+Monday
+</h2>
+
+<span id="exerciseCount">
+0 Exercises
+</span>
+
+</section>
+
+<section
+id="workoutsContainer"
+class="workouts-grid">
+</section>
+
+</div>
+
+<script
+  type="module"
+  src="js/app.js">
+</script>
+
+</body>
+</html>
